@@ -11,5 +11,6 @@ How the extension was developed:
 4)	Finally I uploaded the extension by going on chrome://extensions and then it worked!
 Screen shot of my project:--
 
+![Screenshot](screenshot.png)
 
 
